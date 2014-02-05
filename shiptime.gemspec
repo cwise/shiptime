@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["chris@healthwave.co"]
   spec.description   = %q{A gem for the Shiptime API}
   spec.summary       = %q{This gem wraps the SOAP XML API interface for the Shiptime API (http://ship.emergeit.com/api/)}
-  spec.homepage      = "https://github.com/cwise/shiptime.git"
+  spec.homepage      = "https://github.com/cwise/shiptime"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
